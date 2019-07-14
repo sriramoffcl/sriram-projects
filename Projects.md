@@ -4,7 +4,7 @@
 
 <b>Year - 2017</b>
 
-<a href="https://innovate.mygov.in/innovation/medfly-autonomous-drone-to-deliver-blood-supplies-and-organs-to-remote-places/">Medfly - Mediciine Drone Delivery - Under Indian Drone Policies</a>
+<a href="https://innovate.mygov.in/innovation/medfly-autonomous-drone-to-deliver-blood-supplies-and-organs-to-remote-places/">Medfly - Medicine Drone Delivery - Under Indian Drone Policies</a>
 
 <a href="">Rode Refractor - A simple framework which refractors the code</a>
 
